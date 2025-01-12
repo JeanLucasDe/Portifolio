@@ -1,0 +1,22 @@
+.Projects {
+    padding: 2rem;
+    background: linear-gradient(135deg, #f5f7fa, #c3cfe2);
+  }
+  
+  .project_carousel {
+    display: flex;
+    justify-content: center;
+    overflow-x: auto;
+    gap: 1rem;
+    padding: 1rem 0;
+    scroll-snap-type: x mandatory;
+  }
+  
+  .project_carousel::-webkit-scrollbar {
+    height: 10px;
+  }
+  
+  .project_carousel::-webkit-scrollbar-thumb {
+    background: #555;
+    border-radius: 10px;
+  }

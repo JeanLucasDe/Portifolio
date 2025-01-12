@@ -1,0 +1,21 @@
+.About {
+  padding: 2rem;
+  background: #f7f9fc;
+  border-radius: 10px;
+  box-shadow: 0 4px 20px rgb(0 0 0 / 14%);
+  margin: 2rem auto;
+  max-width: 800px;
+  text-align: left;
+}
+
+.About h2 {
+  font-size: 2rem;
+  color: #040042;
+  margin-bottom: 1rem;
+}
+
+.About p {
+  font-size: 1.2rem;
+  line-height: 1.6;
+  color: #333;
+}

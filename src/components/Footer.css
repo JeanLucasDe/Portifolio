@@ -1,0 +1,30 @@
+.Footer {
+  background-color: #040042;
+  color: white;
+  padding: 1.5rem;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
+
+.contact_options {
+  margin: 1rem 0;
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.contact_link {
+  color: #FFD700;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 1.1rem;
+  transition: color 0.3s ease;
+}
+
+.contact_link:hover {
+  color: #FFF700;
+}
+
+.Footer p {
+  margin: 0.5rem 0;
+}
